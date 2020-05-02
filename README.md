@@ -3,7 +3,7 @@
 A simple color detection virtual instrument for LabVIEW
 
 
-# Requisites:
+# Software requirements:
 
 OS: Windows 10, Linux, Mac OS
 
